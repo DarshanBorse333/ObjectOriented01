@@ -27,7 +27,7 @@ namespace ObjectOriented01
         }
 
         // Behaving in different ways depending upon input recieved use of same thing for diff purposes
-        // we can see the same name function is used but for different purposes
+        // we can see the same name function is used but for different purposes known as polimorphism
         public static void CalculateArea()
         {
 
